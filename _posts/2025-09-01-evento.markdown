@@ -1,7 +1,7 @@
 ---
 layout: default
 img: espetinho.jpg
-category: register
+category: about
 title: O Evento
 description: |
 ---
