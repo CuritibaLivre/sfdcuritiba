@@ -6,7 +6,7 @@ title: Local
 description: |
 ---
 
-O SFD acontecerá na Sede Social da Assutef-CT, situada na Avenida Silva Jardim, 589, próximo à UTFPR
+O SFD acontecerá na Sede Social da Assutef-CT, situada na Avenida Silva Jardim, 589, próximo à UTFPR!
 
 [Link OPM](https://www.openstreetmap.org/?#map=18/-25.439855/-49.266375)
 
