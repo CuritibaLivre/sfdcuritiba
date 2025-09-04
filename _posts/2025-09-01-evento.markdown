@@ -1,0 +1,15 @@
+---
+layout: default
+img: espetinho.jpg
+category: register
+title: O Evento
+description: |
+---
+  Este ano estamos trazendo uma nova proposta para o evento. Ao invés de fazer algo formal, com somente palestras, resolvemos fazer algo de forma mais descontraída para buscar uma forma de aproximar mais os membros da comunidade!
+
+  O evento acontecerá das 10h até as 17h no dia 20 de Setembro de 2025.
+
+  Como o espaço dispõe de churrasqueira, iremos fazer um almoço participativo.
+
+Como todos os eventos da comunidade, o acesso será gratuito, pedimos que cada um leve um pouco de comida (carne e/ou vegetais) e sua bebida favorita!
+
