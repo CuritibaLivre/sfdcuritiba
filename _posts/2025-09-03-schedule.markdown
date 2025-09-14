@@ -11,6 +11,16 @@ Teremos espaço para palestra, rodas de conversas e outras atividades que queira
 
 Como temos pouco tempo, envie sua proposta até dia 12/09 para lenharo@debian.org!
 
+
+10h - Inicio 
+10h30 - Como o Software Livre esté presente no dia a dia - Leonardo Rodrigues
+11h30 - Lightning Talks 
+12h00 - Almoço
+14h00 - Testes no Debian - Marcos Talau
+15h00 - 
+16h00 - Roda de conversa: Como incentivar o SL no dia a dia - Daniel Lenharo e outros.
+
+
 <!-- 
 <table style="border-collapse: collapse; width: 100%;">
   <thead>
