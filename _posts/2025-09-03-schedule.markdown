@@ -9,7 +9,7 @@ description: |
 
 Teremos espaço para palestra, rodas de conversas e outras atividades que queiram propor!
 
-Como temos pouco tempo, envie sua proposta até dia 12/09 para lenharo@debian.org!
+<!-- Como temos pouco tempo, envie sua proposta até dia 12/09 para lenharo@debian.org! -->
 
 
 10h - Inicio 
