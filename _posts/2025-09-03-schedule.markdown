@@ -13,11 +13,11 @@ Como temos pouco tempo, envie sua proposta até dia 12/09 para lenharo@debian.or
 
 
 10h - Inicio 
-10h30 - Como o Software Livre esté presente no dia a dia - Leonardo Rodrigues
-11h30 - Lightning Talks 
+10h15 - Como o Software Livre esté presente no dia a dia - Leonardo Rodrigues
+11h00 - Minha IA, Minhas Regras - Como OnlyOffice Trabalha com IA (Klaibson Natal Ribeiro Borges)
 12h00 - Almoço
-14h00 - Testes no Debian - Marcos Talau
-15h00 - 
+14h00 - Lightning Talks
+15h00 - Solucionado Bug em Pacote Debian (Marcos Talau)
 16h00 - Roda de conversa: Como incentivar o SL no dia a dia - Daniel Lenharo e outros.
 
 
