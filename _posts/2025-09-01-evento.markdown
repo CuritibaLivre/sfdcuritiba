@@ -5,16 +5,13 @@ category: about
 title: O Evento
 description: |
 ---
-  Este ano estamos trazendo uma nova proposta para o evento. Ao invés de fazer algo formal, com somente palestras, resolvemos fazer algo de forma mais descontraída para buscar uma forma de aproximar mais os membros da comunidade!
-
-  O evento acontecerá das 10h até as 17h no dia 20 de Setembro de 2025.
-
-  Como o espaço dispõe de churrasqueira, iremos fazer um almoço participativo.
-
-Como todos os eventos da comunidade, o acesso será gratuito, pedimos que cada um leve um pouco de comida (carne e/ou vegetais) e sua bebida favorita!
 
 
-O SFD acontecerá na Sede Social da Assutef-CT, situada na Avenida Silva Jardim, 589, próximo à UTFPR!
+No dia 19 de setembro, realizaremos mais edição do Software Freedom Day, um encontro para celebrar o Software Livre e, principalmente, as pessoas que constroem e compartilham conhecimento.
 
-[Link OPM](https://www.openstreetmap.org/?#map=18/-25.439855/-49.266375)
+O evento deste ano será realizado na UTFPR – Campus Curitiba. O evento busca reunir estudantes, profissionais, desenvolvedores, comunidades e entusiastas para trocar experiências, conhecer projetos e conversar sobre tecnologia, colaboração, liberdade e cultura digital.
+
+Mais do que um evento sobre tecnologia, o Software Freedom Day é um espaço para fortalecer a comunidade e mostrar que podemos usar, estudar, modificar e compartilhar tecnologia livremente.
+
+Software Livre. Conhecimento livre. Comunidade livre.
 
