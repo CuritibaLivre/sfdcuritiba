@@ -10,14 +10,15 @@ description: |
 Este ano os slots de palestras serão de 25min para palestras.
 Caso tenha uma proposta que precise de 50min, informe na submissão para que possa ser avaliado!
 
- Como temos pouco tempo, envie sua proposta até dia 04/09 para lenharo@debian.org!
+ Como temos pouco tempo, envie sua proposta até dia 04/09  
+ para lenharo@debian.org!
 
 
-09h30 - Inicio 
-10h00 - 
-10h30 - 
-11h00 - 
-11h30 - 
-12h00 - 
-12h30 - Encerramento 
+09h30 - Inicio  
+10h00 -  
+10h30 -   
+11h00 -   
+11h30 -   
+12h00 -   
+12h30 - Encerramento   
 

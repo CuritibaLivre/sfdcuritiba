@@ -1,6 +1,6 @@
 ---
 layout: default
-img: espetinho.jpg
+img: palestra_sfd.png
 category: about
 title: O Evento
 description: |
