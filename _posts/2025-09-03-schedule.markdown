@@ -10,9 +10,10 @@ description: |
 Este ano os slots de palestras serão de 25min para palestras.
 Caso tenha uma proposta que precise de 50min, informe na submissão para que possa ser avaliado!
 
- Como temos pouco tempo, envie sua proposta até dia 04/09  
- para lenharo@debian.org!
+Envie sua proposta de trabalho através do link:
 
+[deb.li/cwbsfd26](deb.li/cwbsfd26)
+*Link encurtado para: <http://form.debianbrasil.org.br/index.php/652131?lang=pt-BR>
 
 09h30 - Inicio  
 10h00 -  
@@ -20,5 +21,5 @@ Caso tenha uma proposta que precise de 50min, informe na submissão para que pos
 11h00 -   
 11h30 -   
 12h00 -   
-12h30 - Encerramento   
+12h30 - Encerramento e sorteio de brindes.
 
