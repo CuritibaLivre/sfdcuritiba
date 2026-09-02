@@ -5,19 +5,7 @@ category: schedule
 title: Programação
 description: |
 ---
-  Programação em Breve!
-
-Este ano os slots de palestras serão de 25min para palestras.
-Caso tenha uma proposta que precise de 50min, informe na submissão para que possa ser avaliado!
-
-Envie sua proposta de trabalho através do link:
-
-[deb.li/cwbsfd26](deb.li/cwbsfd26)
-
-
-*Link encurtado para: <http://form.debianbrasil.org.br/index.php/652131?lang=pt-BR>
-
-
+  
 Grade do evento:  
 09h00 - Café de recepção  
 09h15 - Abertura  
