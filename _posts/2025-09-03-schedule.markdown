@@ -20,11 +20,10 @@ Envie sua proposta de trabalho através do link:
 
 Grade do evento:  
 09h00 - Café de recepção  
-09h30 - Inicio  
-10h00 -  
-10h30 -   
-11h00 -   
-11h30 -   
-12h00 -   
+09h15 - Abertura  
+09h30 - Porque sou usuário do Debian GNU/Linux    (Antonio)
+10h30 - Sua primeira contribuição para o Debian (Talau)
+11h30 - Alternativas Open Source (Fabio Almeida)
+12h30 - Química dos dados: base, acid, cap, qual o produto disso? (Leonardo)
 12h30 - Encerramento e sorteio de brindes.
 
